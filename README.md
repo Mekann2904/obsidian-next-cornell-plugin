@@ -86,3 +86,4 @@ flowchart LR
 
 ```
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あくまで、プロトタイプからの派生版になります。（依頼とは別）<br><br>next-cornell（私的実験／プロトタイプ派生）… <a href="https://t.co/Xvb1ZFCkJl">pic.twitter.com/Xvb1ZFCkJl</a></p>&mdash; Mekann (@Mekann2904) <a href="https://twitter.com/Mekann2904/status/1915416929717903662?ref_src=twsrc%5Etfw">April 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
