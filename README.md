@@ -88,5 +88,4 @@ flowchart LR
 
 
 ## 動作デモ
-
-<video controls src="sample.mov" title="Title"></video>
+[サンプル](sample.mov)を参照してください。
