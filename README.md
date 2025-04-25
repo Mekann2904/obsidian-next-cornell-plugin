@@ -58,5 +58,5 @@ flowchart LR
     end
 
 
-```# obsidian-next-cornell-plugin
-# obsidian-next-cornell-plugin
+```
+
